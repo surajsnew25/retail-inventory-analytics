@@ -27,6 +27,10 @@ The analysis is based on multiple retail datasets:
 - Purchase Transactions        (2M+ records)
 - Vendor Invoices              (5K+ records)
 - Product Purchase Prices     (12K+ records)
+
+The full dataset is hosted on Kaggle due to GitHub size limits.
+
+**Kaggle Dataset:** [Retail Inventory Data](https://www.kaggle.com/datasets/harshmadhavan/vendor-performance-analysis)
  
 ---
 
@@ -179,7 +183,7 @@ For a comprehensive breakdown of analysis, insights, and recommendations, refer 
 ## 📂 Project Structure
 
     ├── README.md          <- README for this project.
-    ├── datasets              
+    ├── datasets           (not included in github beacause of size limits)
     │   │
     │   └── begin_inventory.csv  <- inventory snapshot as of 1st Jan 2024
     │   └── end_inventory.csv    <- inventory snapshot as of 31st Dec 2024
