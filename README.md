@@ -78,6 +78,15 @@ The following derived datasets were created for analysis:
 ### Product Monthly Inventory Snapshot  
 - Monthly inventory metrics
 ![Data Model Image](docs/data_model/MonthlyInventory.png)
+
+---
+
+## 📘 Data Dictionary  
+
+A comprehensive data dictionary covering all core and derived tables, including schema definitions, column descriptions, and data types.
+
+- [View Data Dictionary](docs/data_dictionary.md)
+
 ---
 
 ## 📈 Analysis Performed  
