@@ -30,7 +30,7 @@ The analysis is based on multiple retail datasets:
 
 The full dataset is hosted on Kaggle due to GitHub size limits.
 
-**Kaggle Dataset:** [Retail Inventory Data](https://www.kaggle.com/datasets/harshmadhavan/vendor-performance-analysis)
+**Kaggle Dataset:** [Retail Inventory Data](https://www.kaggle.com/datasets/surajs17/retail-sales-inventory-and-purchases-data-2024)
  
 ---
 
